@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coursework", "Coursework\Coursework\Coursework.csproj", "{087F155F-F59F-45F2-BEE6-DBF7FA224947}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CourseworkContent", "Coursework\CourseworkContent\CourseworkContent.contentproj", "{2FB81F84-D11C-4114-BFF3-F45A5AA7344A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087F155F-F59F-45F2-BEE6-DBF7FA224947}.Debug|x86.ActiveCfg = Debug|x86
+		{087F155F-F59F-45F2-BEE6-DBF7FA224947}.Debug|x86.Build.0 = Debug|x86
+		{087F155F-F59F-45F2-BEE6-DBF7FA224947}.Release|x86.ActiveCfg = Release|x86
+		{087F155F-F59F-45F2-BEE6-DBF7FA224947}.Release|x86.Build.0 = Release|x86
+		{2FB81F84-D11C-4114-BFF3-F45A5AA7344A}.Debug|x86.ActiveCfg = Debug|x86
+		{2FB81F84-D11C-4114-BFF3-F45A5AA7344A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
